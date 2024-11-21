@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Athul
-- 🌟 Self-taught MERN Stack Developer
+- 🌟 MERN Full Stack Developer
 - 💻 Currently learning Python and Django
-- 🚀 Passionate about building web applications
+
 
 ## 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, HTML, CSS
