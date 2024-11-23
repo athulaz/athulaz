@@ -1,6 +1,13 @@
 
-<h1 align="center">Hi 👋, I'm Athul</h1>
-<h3 align="center">Full stack developer</h3>
+# Hi, I'm Athul 👋
+- 💻 Full-Stack Developer
+- 🌱 Learning Python and Django
+
+### 🛠️ Tech Stack
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frontend:** React, Bootstrap, Vanilla JavaScript
+- **Backend:** Node.js, Express.js, Django (learning)
+- **Database:** MongoDB, MySQL (learning)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
