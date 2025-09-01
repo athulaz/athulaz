@@ -1,7 +1,6 @@
 
 # Hi, I'm Athul 👋
-- 💻 Full-Stack Developer
-- 🌱 Learning Python and Django
+
 
 ### 🛠️ Tech Stack
 - **Languages:** JavaScript, Python, HTML, CSS
